@@ -1,0 +1,4 @@
+[29-Oct-2021 03:25:12 America/New_York] PHP Notice:  Undefined variable: Email1 in /home/onscreen/public_html/sql/connect.php on line 53
+[29-Oct-2021 03:25:12 America/New_York] PHP Notice:  Undefined variable: Email2 in /home/onscreen/public_html/sql/connect.php on line 53
+[29-Oct-2021 03:25:12 America/New_York] PHP Notice:  Undefined variable: Email3 in /home/onscreen/public_html/sql/connect.php on line 53
+[29-Oct-2021 03:25:12 America/New_York] PHP Notice:  Undefined variable: teamEmail in /home/onscreen/public_html/sql/connect.php on line 53
