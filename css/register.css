@@ -453,3 +453,32 @@ textarea{
     outline: none;
     border: none !important;
 }
+
+#bootstrapForm fieldset legend {
+    color: #ffffff;
+    
+}
+
+#bootstrapForm {
+    font-family: 'poppins';
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+
+}
+
+#bootstrapForm fieldset{
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+}
+#bootstrapForm fieldset h2{
+color: #E50914;
+font-size: 2.4rem;
+
+}
+
+#bootstrapForm fieldset P{
+    color:#ff8d8d;
+   
+    }
