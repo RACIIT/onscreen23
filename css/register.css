@@ -457,6 +457,7 @@ textarea{
 #bootstrapForm fieldset legend {
     color: #ffffff;
     margin-top: 0.8rem;
+    padding: 0.5rem;
     
 }
 
@@ -483,11 +484,12 @@ font-size: 2.4rem;
 #bootstrapForm fieldset P{
     color:#990e0e;
     margin-bottom: 0.5rem;
+    padding: 0.5rem;
    
     }
 
 .member-card{
     background-color: #181818e2;
-    padding: 1.5rem ;
+    padding: 1.9rem ;
     border-radius: 0.5rem;
 }
